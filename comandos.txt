@@ -11,3 +11,6 @@ git add .
 git commit -m "Por que estou salvando???"
 
 -> git push envia informação do pc para o github
+git push
+
+-> baixa a atualização dos arquivos do github
