@@ -1,2 +1,11 @@
 ->Inicializa um repositório git (Utilizando apenas uma vez)
 git init
+
+-> Verificar o status do repositório
+git status
+
+->Adicionar os novos arquivos no git para versionar
+git add .
+
+-> Salva uma versão de arquivos
+git commit -m "Por que estou salvando???"
