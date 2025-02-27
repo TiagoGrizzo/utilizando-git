@@ -18,3 +18,9 @@ git push
 -> configura o pc com o nome e-mail do responsável pelo código
 git config --global user.name 'Tiago Augusto Gaigo Grizzo"
 git config --global user.email tiago.grizzo@fatec.sp.gov.br
+
+-> navegar no cmd
+
+cd nome-da-pasta   // entra em umas pasta
+cd ..              // volta uma pasta
+cd /               // vai para o c:
