@@ -10,7 +10,11 @@ git add .
 -> Salva uma versão de arquivos
 git commit -m "Por que estou salvando???"
 
--> git push envia informação do pc para o github
+-> 
 git push
 
 -> baixa a atualização dos arquivos do github
+
+-> configura o pc com o nome e-mail do responsável pelo código
+git config --global user.name 'Tiago Augusto Gaigo Grizzo"
+git config --global user.email tiago.grizzo@fatec.sp.gov.br
