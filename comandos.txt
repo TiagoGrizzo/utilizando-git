@@ -4,13 +4,13 @@ git init
 -> Verificar o status do repositório
 git status
 
-->Adicionar os novos arquivos no git para versionar
+->Adicionar os novos arquivos no git para versionar (todas vez que for adicionar ou editar algo)
 git add .
 
 -> Salva uma versão de arquivos
 git commit -m "Por que estou salvando???"
 
--> 
+-> envia os commits para o github *
 git push
 
 -> baixa a atualização dos arquivos do github
@@ -24,3 +24,6 @@ git config --global user.email tiago.grizzo@fatec.sp.gov.br
 cd nome-da-pasta   // entra em umas pasta
 cd ..              // volta uma pasta
 cd /               // vai para o c:
+
+-> baixa a atualização dos arquivos do github para uma pasta já existente
+git pull
